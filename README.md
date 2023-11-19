@@ -1,6 +1,6 @@
-# Arduino DCMotor Library v0.1.0
+# Arduino DCMotor Library v1.0.0
 
-![Arduino Logo](./ArduinoCommunityLogo.png)
+![Arduino Logo](./extras/ArduinoCommunityLogo.png)
 
 ## Overview
 
